@@ -8,21 +8,50 @@
 
 + 1° Para start o projeto => npm start
 
-### Logo do projeto
-![Logo do projeto](src/assets/imgs/EvaluationsManagementWelcome.png)
+---
 
+### Logo do projeto
+
+<p align="center">
+  <img src="src/assets/imgs/EvaluationsManagementWelcome.png" alt="Logo do projeto">
+</p>
+
+---
 
 ### Módulo do formulário de envio de atendimento avaliado sem erro
-![Imagem do formulário](src/assets/imgs/Form1Screen.png)
+
+<p align="center">
+  <img src="src/assets/imgs/Form1Screen.png" alt="Imagem do formulário">
+</p>
+
+---
 
 ### Módulo do formulário de envio de atendimento avaliado com erro
-![Imagem do formulário](src/assets/imgs/FormErrorScreen.png)
+
+<p align="center">
+  <img src="src/assets/imgs/FormErrorScreen.png" alt="Imagem do formulário">
+</p>
+
+---
 
 ### Módulo da consulta atendimentos avaliados
-![Imagem da consulta de atendimentos](src/assets/imgs/AttendancesScreen.png)
+
+<p align="center">
+  <img src="src/assets/imgs/AttendancesScreen.png" alt="Imagem da consulta de atendimentos">
+</p>
+
+---
 
 ### Módulo da DashBoard
-![Imagem do dashboard](src/assets/imgs/DashScreen.png)
+
+<p align="center">
+  <img src="src/assets/imgs/DashScreen.png" alt="Imagem do dashboard">
+</p>
+
+---
 
 ### Módulo de Usuários
-![Imagem dos usuários](src/assets/imgs/UsersScreen.png)
+
+<p align="center">
+  <img src="src/assets/imgs/UsersScreen.png" alt="Imagem dos usuários">
+</p>
