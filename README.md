@@ -2,7 +2,7 @@
 
 > Status: Developing ⚠️
 
-### Controle de qualidade de atendimentos 
+### Tema projeto: Controle de qualidade de atendimentos 
 
 ### Aplicação para avaliação de desempenho de atendimentos
 
