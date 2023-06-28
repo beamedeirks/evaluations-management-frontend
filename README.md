@@ -12,8 +12,11 @@
 ![Logo do projeto](src/assets/imgs/EvaluationsManagementWelcome.png)
 
 
-### Módulo do formulário de envio de atendimentos avaliados
+### Módulo do formulário de envio de atendimento avaliado sem erro
 ![Imagem do formulário](src/assets/imgs/FormScreen.png)
+
+### Módulo do formulário de envio de atendimento avaliado com erro
+![Imagem do formulário](src/assets/imgs/FormErrorScreen.png)
 
 ### Módulo da consulta atendimentos avaliados
 ![Imagem da consulta de atendimentos](src/assets/imgs/AttendancesScreen.png)
