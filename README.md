@@ -16,7 +16,7 @@
 ![Imagem do formulário](src/assets/imgs/FormScreen.png)
 
 ### Módulo da consulta atendimentos avaliados
-![Imagem da consulta de atendimentos(src/assets/imgs/AttendancesScreen.png)
+![Imagem da consulta de atendimentos](src/assets/imgs/AttendancesScreen.png)
 
 ### Módulo da DashBoard
 ![Imagem do dashboard](src/assets/imgs/DashScreen.png)
