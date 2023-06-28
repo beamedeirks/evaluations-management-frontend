@@ -7,3 +7,9 @@
 ### Aplicação para avaliação de desempenho de atendimentos
 
 + 1° Para start o projeto => npm start
+
+### Logo do projeto
+![Logo do projeto](src/assets/imgs/EvaluationsManagementWelcome.png)
+
+
+### Logo do projeto
