@@ -16,10 +16,10 @@
 ![Imagem do formulário](src/assets/imgs/FormScreen.png)
 
 ### Módulo da consulta atendimentos avaliados
-![Imagem do formulário](src/assets/imgs/AttendanceScreen.png)
+![Imagem da consulta de atendimentos(src/assets/imgs/AttendancesScreen.png)
 
 ### Módulo da DashBoard
-![Imagem do formulário](src/assets/imgs/DashScreen.png)
+![Imagem do dashboard](src/assets/imgs/DashScreen.png)
 
 ### Módulo de Usuários
-![Imagem do formulário](src/assets/imgs/UsersScreen.png)
+![Imagem dos usuários](src/assets/imgs/UsersScreen.png)
