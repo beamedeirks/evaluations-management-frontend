@@ -12,5 +12,14 @@
 ![Logo do projeto](src/assets/imgs/EvaluationsManagementWelcome.png)
 
 
-### Modulo do formulário
+### Módulo do formulário de envio de atendimentos avaliados
 ![Imagem do formulário](src/assets/imgs/FormScreen.png)
+
+### Módulo da consulta atendimentos avaliados
+![Imagem do formulário](src/assets/imgs/AttendanceScreen.png)
+
+### Módulo da DashBoard
+![Imagem do formulário](src/assets/imgs/DashScreen.png)
+
+### Módulo de Usuários
+![Imagem do formulário](src/assets/imgs/UsersScreen.png)
